@@ -1,0 +1,23 @@
+name: gorgon
+favicon: null
+layout_spectrum: 0.694
+typography_spectrum: 0.5962239902000874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.28032185859046876
+  lightness: 0.35276737925596535
+  saturation: 0.8174065223429352
+  rhythmicContrast: 0.31483591767027974
+purpose: []
