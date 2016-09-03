@@ -1,34 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: Hear from the local consequentialist scholar who watched it happen
-datePublished: '2015-10-26T02:10:41.849Z'
-dateModified: '2015-10-26T02:10:23.398Z'
-title: Five Rail Workers and One Fat Man Dead in Train Accident
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-31T23:15:51.064Z'
 sourcePath: _posts/2015-10-26-five-rail-workers-and-one-fat-man-dead-in-train-accident.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:15:50.439Z'
+title: ''
+publisher: {}
+description: 'The incident was witnessed by local meta-ethics professor, Mortimer Black.'
+inLanguage: null
+inNav: false
+starred: false
 url: five-rail-workers-and-one-fat-man-dead-in-train-accident/index.html
 _type: Article
 
 ---
-The incident was witnessed by local consequentialist scholar, Mortimer Black.
+The incident was witnessed by local meta-ethics professor, Mortimer Black.
 
 > He saw the workers and I suppose he must have made a split-second decision to maximize the utility of the commons by voluntarily jumping down from the bridge to get in front of it
 
-The event bears a remarkable resemblence to _The Trolley Problem_, a well known metaethical thought experiment in which an agent may save the lives of five imperiled rail workers if they are willing to bring about the death of a sixth man by pushing him from the bridge to intercept the trolley passing underneath. 
+The event bears a remarkable resemblance to _The Trolley Problem_, a well known meta-ethical thought experiment in which an oncoming trolley imperils the lives of five rail workers operating in a narrow tunnel. The agent in the thought experiment sees the situation, as they stand behind a sixth man, who is innocent, but fat and oblivious to their presence. The agent and the fat man stand atop a bridge with no guard rails that passes over the tracks. The agent must then decide whether to save the lives of the five rail workers by pushing the fat man off the bridge and onto the tracks to stop the trolley.
 
 When asked about his working relationship with The Trolley Problem, Mortimer Black barked defensively
 
-> Don't ask me about the trolley problem. Obviously it was a train rather than a streetcar so the model doesn't apply. No consequentialist would mistake this situation for a trolley problem.
+> Obviously it was a train rather than a streetcar so the Trolley Problem model can't be applied here. _**No consequentialist scholar would mistake this situation for a trolley problem, obviously**_.
 
 Police say the investigation into the witness's story is still ongoing.
