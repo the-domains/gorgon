@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T23:15:51.064Z'
+datePublished: '2016-08-31T23:34:34.568Z'
 sourcePath: _posts/2015-10-26-five-rail-workers-and-one-fat-man-dead-in-train-accident.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-31T23:15:50.439Z'
+dateModified: '2016-08-31T23:34:34.428Z'
 title: ''
 publisher: {}
 description: 'The incident was witnessed by local meta-ethics professor, Mortimer Black.'
